@@ -4,6 +4,8 @@ Repo that contains install scripts used in the central bridge installation
 
 AutoTF is not the owner of any of the scripts in here. Their owner is listed at the top of each file.
 
+https://github.com/AutoTF-Rail/dotnet8pi Also serves as a backup due to using scripts inside of it.
+
 
 
 ## Info & Contributions
